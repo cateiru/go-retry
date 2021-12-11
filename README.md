@@ -1,5 +1,11 @@
 # Go Retry Test
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/cateiru/go-retry.svg)](https://pkg.go.dev/github.com/cateiru/go-retry)
+
+```text
+go get -u github.com/cateiru/go-retry
+```
+
 ## Example
 
 ```go
